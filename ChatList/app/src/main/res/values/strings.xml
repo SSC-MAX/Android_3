@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">聊天</string>
+    <string name="menu_add">添加群聊</string>
+    <string name="menu_clear">清空群聊</string>
+    <string name="menu_exit">退出</string>
+    <string name="group_name">名字</string>
+    <string name="group_creator">创建者</string>
+    <string name="group_btn">创建群组</string>
+    <string name="toast_name_not_allow_empty">用户名不能为空</string>
+    <string name="toast_creator_not_allow_empty">创建者不能为空</string>
+    <string name="toast_create_success">创建成功</string>
+    <string name="title_detail">详情页</string>
+    <string name="title_main">首页</string>
+    <string name="title_add">新增</string>
+</resources>
